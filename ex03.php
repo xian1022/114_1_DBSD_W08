@@ -1,4 +1,6 @@
-## C112181113
+<H1> SID: C112181113 <BR>
+NAME: 何品賢 </H1>
+<P>
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,8 +10,8 @@
 <body>
 <?php 
 // 使用array()指定結合陣列的元素
-$arr = array( "color"=>"黑色", "name"=> "陳會安", 
-              "shape"=>"三角形", 100 ); // 沒有指定,鍵值是0
+$arr = array( "color" => "黑色", "name"=> "陳會安", 
+              "shape" => "三角形", 100 ); // 沒有指定,鍵值是0
 if (!isset($arr["type"])) {  // 新增元素
    $arr["type"] = "PHP";  // 不存在,所以新增
    echo "新增type元素值PHP成功!<br/>";
