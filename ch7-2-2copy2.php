@@ -1,3 +1,6 @@
+<H1> SID: C112181113 <BR>
+NAME: 何品賢 </H1>
+<P>
 <?php
 $weekday = array(
    1 => "Mon",
